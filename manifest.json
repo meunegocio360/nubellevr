@@ -1,6 +1,10 @@
 {
- "start_url": "index.htm",
+ "background_color": "#FFFFFF",
  "name": "Nubelle - Unidade Brás",
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
+ "description": "R. Oriente, 704 - Brás, São Paulo - SP",
  "icons": [
   {
    "type": "image/png",
@@ -37,9 +41,5 @@
    "src": "misc/icon64.png",
    "sizes": "64x64"
   }
- ],
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "description": "R. Oriente, 704 - Brás, São Paulo - SP",
- "background_color": "#FFFFFF"
+ ]
 }
